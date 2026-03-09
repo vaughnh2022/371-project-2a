@@ -1,6 +1,6 @@
 # COMP 371 Project 2a - Shapes OO Scala
 
-A visual Scala application for creating, manipulating, and analyzing geometric shapes with a Swing-based GUI.
+A visual Scala application for creating, manipulating, and analyzing geometric shapes with a Swing-based GUI. I have completed the extra credit for this assignment.
 
 ## Project Overview
 
